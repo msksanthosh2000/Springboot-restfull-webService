@@ -17,6 +17,7 @@ This repository contains a collection of APIs built using Spring Boot, demonstra
 
 - RESTful APIs for various functionalities
 - Configured with Spring Boot for easy setup and development
+- MySQL database connection for persistent data storage
 - Docker support for containerization
 - Swagger for API documentation
 - Spring Data JPA for database interactions
